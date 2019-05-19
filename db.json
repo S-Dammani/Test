@@ -53,13 +53,97 @@
       "userName": "ASinghal",
       "fullName": "Akshit Singhal",
       "image": "",
-      "status": "Busy"
+      "status": "Busy",
+      "posts": [
+        {
+         "id": "1",
+         "title": "Post1",
+         "Content": "Content1"
+        },
+        {
+         "id": "2",
+         "title": "Post2",
+         "Content": "Content2"
+        },
+        {
+         "id": "3",
+         "title": "Post3",
+         "Content": "Content3"
+        },
+        {
+         "id": "4",
+         "title": "Post3",
+         "Content": "Content3"
+        },
+        {
+         "id": "5",
+         "title": "Post3",
+         "Content": "Content3"
+        },
+        {
+         "id": "6",
+         "title": "Post3",
+         "Content": "Content3"
+        },
+        {
+         "id": "7",
+         "title": "Post3",
+         "Content": "Content3"
+        },
+        {
+         "id": "8",
+         "title": "Post3",
+         "Content": "Content3"
+        }
+      ]
     },
     {
       "userName": "APatidar",
       "fullName": "Anurag Patidar",
       "image": "",
-      "status": "Busy"
+      "status": "Busy",
+      "posts": [
+        {
+         "id": "1",
+         "title": "Post1",
+         "Content": "Content1"
+        },
+        {
+         "id": "2",
+         "title": "Post2",
+         "Content": "Content2"
+        },
+        {
+         "id": "3",
+         "title": "Post3",
+         "Content": "Content3"
+        },
+        {
+         "id": "4",
+         "title": "Post3",
+         "Content": "Content3"
+        },
+        {
+         "id": "5",
+         "title": "Post3",
+         "Content": "Content3"
+        },
+        {
+         "id": "6",
+         "title": "Post3",
+         "Content": "Content3"
+        },
+        {
+         "id": "7",
+         "title": "Post3",
+         "Content": "Content3"
+        },
+        {
+         "id": "8",
+         "title": "Post3",
+         "Content": "Content3"
+        }
+      ]
     },
     {
       "userName": "HSethi",
