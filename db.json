@@ -3,13 +3,31 @@
     {
       "userName": "SDammani",
       "fullName": "Saurabh Dammani",
-      "image": "https://www.google.com/search?q=akshay+kumar&rlz=1C1GCEU_enIN835IN835&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj9sJ2ZkaXiAhUQ63MBHQOiBp0Q_AUIDygC&biw=1517&bih=730#imgrc=uh9P8JERQHklhM:",
-      "status": "Online"
+      "image": "",
+      "status": "Online",
+      "connections": ["ASinghal", "APatidar", "HSethi", "MUpasak"],
+      "posts": [
+        {
+         "id": "1",
+         "title": "Post1",
+         "Content": "Content1"
+        },
+        {
+         "id": "2",
+         "title": "Post2",
+         "Content": "Content2"
+        },
+        {
+         "id": "3",
+         "title": "Post3",
+         "Content": "Content3"
+        }
+      ]
     },
     {
       "userName": "ASinghal",
       "fullName": "Akshit Singhal",
-      "image": "https://www.google.com/search?q=akshay+kumar&rlz=1C1GCEU_enIN835IN835&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj9sJ2ZkaXiAhUQ63MBHQOiBp0Q_AUIDygC&biw=1517&bih=730#imgrc=uh9P8JERQHklhM:",
+      "image": "",
       "status": "Busy"
     }
   ]
