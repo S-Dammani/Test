@@ -5,7 +5,7 @@
       "fullName": "Saurabh Dammani",
       "image": "",
       "status": "Online",
-      "connections": ["ASinghal", "APatidar", "HSethi", "MUpasak"],
+      "connections": ["ASinghal", "APatidar", "HSethi", "MUpasak", "ASharma", "RNainwal", "ADammani"],
       "posts": [
         {
          "id": "1",
@@ -149,19 +149,31 @@
       "userName": "HSethi",
       "fullName": "Harshit Sethi",
       "image": "",
-      "status": "Busy"
+      "status": "Away"
     },
     {
       "userName": "MUpasak",
       "fullName": "Mayank Upasak",
       "image": "",
-      "status": "Busy"
+      "status": "Online"
     },
     {
       "userName": "ASharma",
       "fullName": "Ankit Sharma",
       "image": "",
       "status": "Busy"
-    }
+    },
+    {
+      "userName": "RNainwal",
+      "fullName": "Rohit Nainwal",
+      "image": "",
+      "status": "Away"
+    },,
+    {
+      "userName": "ADammani",
+      "fullName": "Ayush Dammani",
+      "image": "",
+      "status": "Online"
+    },
   ]
 }
